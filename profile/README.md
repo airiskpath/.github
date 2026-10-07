@@ -1,3 +1,5 @@
+<img src="https://airiskpath.org/assets/logo.svg" alt="" width="56" align="right">
+
 ## AI-RISKPATH
 
 **AI risk without the crystal ball.** You are given probabilities of catastrophe that nobody can check. We publish something else: **what has already been observed, and which defenses still hold.**
